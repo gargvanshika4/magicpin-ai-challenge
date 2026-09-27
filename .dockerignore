@@ -1,0 +1,7 @@
+expanded/
+tests/
+dataset/
+examples/
+*.md
+__pycache__/
+.pytest_cache/
